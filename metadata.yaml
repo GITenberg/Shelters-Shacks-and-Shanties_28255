@@ -17,6 +17,8 @@ creator:
 description: Shows how to build sod houses, over-water camps, railroad tie shacks,
   Navaho hogans, and log cabins, and offers advice on using an axe, building a fireplace,
   and starting a fire.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28255#Shelters-Shacks-and-Shanties
 gutenberg_issued: '2009-03-05'
 gutenberg_type: Text
 identifiers:
