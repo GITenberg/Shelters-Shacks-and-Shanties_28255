@@ -1,0 +1,36 @@
+_repo: Shelters-Shacks-and-Shanties_28255
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Beard, Daniel Carter
+    aliases:
+    - Beard, D. C. (Daniel Carter)
+    - Beard, Dan
+    birthdate: 1850
+    deathdate: 1941
+    gutenberg_agent_id: '8612'
+    url: http://www.gutenberg.org/2009/agents/8612
+    wikipedia: http://en.wikipedia.org/wiki/Daniel_Carter_Beard
+description: Shows how to build sod houses, over-water camps, railroad tie shacks,
+  Navaho hogans, and log cabins, and offers advice on using an axe, building a fireplace,
+  and starting a fire.
+gutenberg_issued: '2009-03-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28255'
+  lccn: '14015383'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Log cabins -- Design and construction'
+- !lcsh 'Sheds -- Design and construction'
+- !lcc 'TH'
+- !lcsh 'Wilderness survival'
+- !lcsh 'Huts -- Design and construction'
+title: Shelters, Shacks and Shanties
+url: http://www.gutenberg.org/ebooks/28255
